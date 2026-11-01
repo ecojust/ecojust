@@ -24,8 +24,8 @@ pureTV 希望成为一个属于创作者与用户的电视应用分享平台。�
 
 <center>
 <figure>
-<img src="assets/p2.png"  style="width:calc(50% - 8px);margin:0 3px;" />
-<img src="assets/p1.png"  style="width:calc(50% - 8px);margin:0 3px;" />
+<img src="./assets/p2.png"  style="width:calc(50% - 8px);margin:0 3px;" />
+<img src="./assets/p1.png"  style="width:calc(50% - 8px);margin:0 3px;" />
 </figure>
 </center>
 
